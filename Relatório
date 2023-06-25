@@ -1,0 +1,26 @@
+# Relatório do Projeto
+
+1. Resumo: Nosso objetivo é criar um jogo sobre um viajante, chamado Maxwell, que tem o objetivo de chegar a uma cidade chamada Nargumun, nosso principal objetivo durante a criação do jogo é dar a sensação de liberdade ao jogar como Maxwell podendo se movimentar livremente pelo mapa enquanto se respeita as regras estabelecidas previamente. Como resultado conseguimos implementar os nossos objetivos, enfrentando diversos obstáculos durante a codificação, e com as dificuldades que enfrentamos tivemos que pesquisar e pedir ajuda para pessoas com mais experiencia, além de trabalhar em equipe para tentar superar as adversidades, melhorando nosso conhecimento de código e nossa capacidade de trabalhar em equipe.
+
+2. Introdução: O projeto consiste em um jogo que o professor Dimmy passou, que era para o nosso grupo desenvolver utilizando o conhecimento que o mesmo apresentou em sala, o projeto foi passado antes da formação do grupo, então, ao iniciar o grupo, o processo de criação começou de maneira fluída, devido ao objetivo claro.
+
+3. Descrição do Projeto: 
+° Arquitetura:
+° Componentes:
+° Requisitos: Os Requisitos desse projeto podem ser ditos como “Max só consegue viajar para cidades que fazem fronteira com a cidade que ele se encontra no momento”,”Max não pode aceitar mais de uma missão por vez ou re-fazer uma missão que já fez ou abandonou”, ”Quando o poder da joia passar do limite ou as moedas de transporte acabarem Max deve ser considerado morto”.
+° Funcionalidades: 
+
+4. Descrição da Equipe:
+° Luis Henrique: O Luis tem a função de testar o código para verificar se o código necessita de alguma revisão ou se tem algo que está acontecendo ou deixando de fazer, que não era suposto para acontecer, é função do Luis de achar e relatar para ser solucionado, além de requisitar a implementação do requisitos gerados pelo Miguel no código e colocar os documentos no Git.
+° Miguel Ferro: O Miguel tem a função de criação de documentos que melhorem a organização do projeto, criação de documentos que não são ligados diretamente ao código como o relatório, criação de requisitos, analise do projeto para que não fuja da ideia principal e das regras que devem ser seguidas e implementar os documentos no Git.
+° Vinicius D' Fatima: O Vinicius é responsável pela criação do código, correção dos erros relatados pelo Luis, filtração de ideias que não são viáveis de implementar no código, designar os trabalhos que precisam ser feitos pelo Trello e implementar documentos do projeto no Git.
+° Arthur Mousinho: O Arthur é responsável pela criação do código, correção dos erros relatados pelo Luis, designar os trabalhos que precisam ser feitos utilizando o Trello para que o grupo saiba o que é necessario e implementar documentos do projeto no Git.
+° Samael Aun: O Samael auxiliou na criação do relatorio.
+
+5. Metodologia: Para que as metas e os objetivos do projeto sejam concretizados, foram utilizados diversos conceitos da programação e da área da engenharia. Apesar dessa diversidade, três ferramentas práticas se destacam: POO(Programação Orientada Objeto), Estrutura de Dados em geral(Arrays, Grafos, Árvores) e a coleta de requisitos. E se tratando do funcionamento das metodologias usadas no projeto, a programação orientada objetos é baseada em 3 objetivos(robustez, adaptabilidade, reusabilidade) e 3 princípios(abstração, encapsulamento, modularidade), os quais, juntos, fornecem programas funcionais e organizados que solucionam problemas. Além da POO, vale mencionar um pouco da funcionalidade das Estruturas de Dados em geral. Essas estruturas buscam coletar dados computacionais e organizá-los para melhor desempenho do computador, economização de memória, melhor processamento, entre outros benefícios. Ademais, há a coleta de requisitos em que o time desenvolvedor procura entender, nesse contexto, as funcionalidades e os aspectos qualitativos do programa
+
+7. Resultados: O programa não apresenta delay em sua execução, com uma resposta instantânea aos comandos executados, o programa depois de uma série de testes aparenta não ter erros de execusão, pois cada decisão que o player tiver que não faz parte das opões apresentadas não sera executada e continuará esperando uma resposta das opções fornecidas, o programa respeita as regras do jogo, finalizando o jogo quando o personagem morrer ou objetivo for concluído.
+
+8. Conclusão: As maiores dificuldades que enfrentamos foi a implementação de Árvore Binária e Grafos, além da desorganização primaria devido ao grupo ter sido formado inicialmente sem uma lideraça ou funções estabelecidas, para evitar esses desafios futuramente é necessario uma maior experiência e estudo sobre a parte técnica do código, e em relação a desorganização pode ser resolvido por uma reunião entre os membros do grupo para separar as funções de cada membro e a eleição de um líder
+
+9. Referencias: **ChatGPT (Usamos ele como referencia para entender a lógica da biblioteca do Java TreeMap),** **Algoritmos - Teoria e Prática (Livro de Thomas Cormen), Vídeo Aula de Grafo e Árvore, Documentações na Plataforma ICEV e Monitor/Instrutor Samuel (Aula sobre Árvore e Grafo).**
