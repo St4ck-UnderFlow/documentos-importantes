@@ -5,10 +5,10 @@
 2. Introdução: O projeto consiste em um jogo que o professor Dimmy passou, que era para o nosso grupo desenvolver utilizando o conhecimento que o mesmo apresentou em sala, o projeto foi passado antes da formação do grupo, então, ao iniciar o grupo, o processo de criação começou de maneira fluída, devido ao objetivo claro.
 
 3. Descrição do Projeto: 
-° Arquitetura:
+° Arquitetura: 
 ° Componentes:
 ° Requisitos: Os Requisitos desse projeto podem ser ditos como “Max só consegue viajar para cidades que fazem fronteira com a cidade que ele se encontra no momento”,”Max não pode aceitar mais de uma missão por vez ou re-fazer uma missão que já fez ou abandonou”, ”Quando o poder da joia passar do limite ou as moedas de transporte acabarem Max deve ser considerado morto”.
-° Funcionalidades: 
+° Funcionalidades: As Funcionalidades do projeto envolve: Iniciar o jogo; ver as regras; sair do jogo; viajar entre as cidades; interagir com o mercador; aceitar, recusar e abandonar missões; aumentar ou diminuir o limiar de poder, moedas de transporte e o poder da joia
 
 4. Descrição da Equipe:
 ° Luis Henrique: O Luis tem a função de testar o código para verificar se o código necessita de alguma revisão ou se tem algo que está acontecendo ou deixando de fazer, que não era suposto para acontecer, é função do Luis de achar e relatar para ser solucionado, além de requisitar a implementação do requisitos gerados pelo Miguel no código e colocar os documentos no Git.
